@@ -1,0 +1,20 @@
+large font: 'Montserrat', sans-serif
+letter-spacing: .15em
+line-height: 1.5em, 1.9em
+font colors: 000000, 252525, 454545, 007ce2
+
+light blue: 299fff
+normal (default) blue: 0086f4
+hover blue: 007ce2
+yellow: FF9900
+
+greys:
+f8f8f8
+e8e8e8
+cecece
+999999
+666666
+454545
+252525
+
+border radius: 6px
