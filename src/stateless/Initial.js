@@ -1,9 +1,9 @@
-import { AsyncStorage } from 'react-native';
+import { AsyncStorage } from "react-native";
 
-const HAS_LAUNCHED = 'hasLaunched';
+const HAS_LAUNCHED = "hasLaunched";
 
 function setAppLaunched() {
-  AsyncStorage.setItem(HAS_LAUNCHED, 'true');
+  AsyncStorage.setItem(HAS_LAUNCHED, "true");
 }
 
 export default async function checkIfFirstLaunch() {
