@@ -1,32 +1,32 @@
 [
   {
-    "product_id": 100,
-    "title": "Bearington Baby Bandit Black Teddy Bear Stuffed Animal, 14.5\"",
-    "business_data": "https://mobimoney.com/business_data.json",
-    "price_original": 700,
-    "price_final": 450,
-    "legend_1": "Surface washable",
-    "legend_2": "",
-    "image_large": "https://mobimoney.com/images/bear.jpg",
-    "image_small": "https://mobimoney.com/images/bearThumb.jpg"
-  },
-  {
     "product_id": 200,
     "title": "Tall Black Platform Flip Flops",
     "business_data": "https://mobimoney.com/business_data.json",
-    "price_original": 900,
-    "price_final": 550,
+    "price_original": 35.95,
+    "price_final": 24.95,
     "legend_1": "Size: US: 7, EURO: 37-38",
     "legend_2": "Black/White",
     "image_large": "https://mobimoney.com/images/flipFlops.jpg",
     "image_small": "https://mobimoney.com/images/flipFlopsThumb.jpg"
   },
   {
+    "product_id": 100,
+    "title": "Bearington Baby Bandit Black Teddy Bear Stuffed Animal, 14.5\"",
+    "business_data": "https://mobimoney.com/business_data.json",
+    "price_original": 18.95,
+    "price_final": 11.95,
+    "legend_1": "Surface washable",
+    "legend_2": "",
+    "image_large": "https://mobimoney.com/images/bear.jpg",
+    "image_small": "https://mobimoney.com/images/bearThumb.jpg"
+  },
+  {
     "product_id": 300,
     "title": "Star Wars Storyboards: The Original Trilogy Hardcover",
     "business_data": "https://mobimoney.com/business_data.json",
-    "price_original": 0,
-    "price_final": 550,
+    "price_original": 40.0,
+    "price_final": 28.45,
     "legend_1": "by J. W. Rinzler",
     "legend_2": "",
     "image_large": "https://mobimoney.com/images/book.png",

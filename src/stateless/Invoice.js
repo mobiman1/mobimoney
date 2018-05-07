@@ -91,7 +91,7 @@ class Invoice extends Component {
         </View>
         <View style={styles.shopRow}>
           <View style={styles.textColumn}>
-            <Text style={styles.productTitle}>VAT</Text>
+            <Text style={styles.productTitle}>Tax</Text>
           </View>
           <View style={styles.pricesColumn}>
             <Text style={styles.productPrice}>

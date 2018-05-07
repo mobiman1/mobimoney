@@ -21,7 +21,7 @@ class HomeScreen extends Component {
       isFirstLaunch: false,
       hasCheckedAsyncStorage: false,
       invoiceData: "",
-      accountBalance: 25230 // this will be dynamically derived from user's account later
+      accountBalance: 2520 // this will be dynamically derived from user's account later
 
       // dispatched: false
     };
@@ -108,7 +108,7 @@ class HomeScreen extends Component {
 
   renderModal = cart => {
     const subtotal = this.props.subtotal;
-    const VAT = subtotal * 0.1;
+    const VAT = subtotal * 0.0841;
     const total = subtotal + VAT;
     const accountBalance = this.state.accountBalance;
 

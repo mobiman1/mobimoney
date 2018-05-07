@@ -104,6 +104,7 @@ class Product extends Component {
                 <Text style={styles.priceStyle}>
                   {currency}
                   {price_final.toFixed(2)}
+                  &nbsp;&nbsp;&nbsp;
                 </Text>
                 <View style={{ flex: 1 }}>
                   <Text style={styles.numberStyle}>

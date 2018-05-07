@@ -12,7 +12,7 @@ class Scanner extends Component {
     super(props);
 
     this.state = {
-      testMode: "", // 'list' or 'product' for testing app without manually scanning qr codes
+      testMode: "product", // 'list' or 'product' for testing app without manually scanning qr codes
       hasCameraPermission: null,
       quantity: "1",
       shopDetails: [
@@ -20,7 +20,7 @@ class Scanner extends Component {
         {
           shopName: "NBlume Beach & Casual Fashion for Women",
           shopImage: "https://nblume.com/images/logoNBlume.png",
-          currency: this.getCurrencySymbol("BHT")
+          currency: this.getCurrencySymbol("USD")
         }
       ]
     };
