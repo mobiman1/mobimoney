@@ -27,7 +27,7 @@ folling text:
 > git clone https://github.com/mobiman1/mobimoney.git
 ```
 
-Then cd to the "mobimony" directory and install the dependencies:
+Then cd to the "mobimoney" directory and install the dependencies:
 ```
 > cd mobimoney
 > npm install
