@@ -5,7 +5,6 @@ development tool (XDE). Specifically, Mobimoney provides a Scanner
 (QR code reader), Product Page, Shopping Cart, and Invoice modal to facilitate payments from mobile devices. Mobimoney
 currently does not include payment gateway integration or login authorization, both of which are part of the V1.0 roadmap. 
 
-<img src="https://mobimoney.com/images/screenHeader.jpg" />
 <img src="https://mobimoney.com/images/screensMobimoney.jpg" />
 
 ## Expo Demo App
