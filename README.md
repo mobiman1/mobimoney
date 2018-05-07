@@ -3,7 +3,7 @@
 Mobimoney is an open-source, cross-platform mobile payments project, developed in React Native and utilizing the Expo
 development tool (XDE). Specifically, Mobimoney provides a Scanner 
 (QR code reader), Product Page, Shopping Cart, and Invoice modal to facilitate payments from mobile devices. Mobimoney
-currently does not include payment gateway integration or login authorization, but is part of the V1.0 roadmap. 
+currently does not include payment gateway integration or login authorization, both of which are part of the V1.0 roadmap. 
 
 <!-- <img src="https://mobimoney.com/images/screensMobimoney.png" /> -->
 
@@ -35,6 +35,23 @@ Then cd to the "mobimony" directory and install the dependencies:
 
 ### Documentation
 Coming soon...
+
+### v1.0 Roadmap
+
+
+### Technologies
+<ul>
+  <li>
+Expo: for rapid development of the app (allows you to develop without touching Xcode/Android Studio; is pre-configured with hot-reloading; has its own app store for instant publishing; provides debug tools, etc.).
+  </li>
+  <li>
+
+React Native: as a library for developing an cross-platform phone app using React's reactive architecture.
+</li>
+<li>
+React Navigation: to provide cross-platform navigation. Chosen over React Native Navigation because: 1) Expo recommends it; and 2) React Native Navigation is flooded with hundreds of open issues because the core team have switched attention to producing a new major release.
+  </li>
+  </ul>
 
 <!-- ## Contributing
 
