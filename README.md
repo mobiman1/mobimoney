@@ -16,6 +16,7 @@ After loading Mobimoney you may scan the items below to test its features:
 
 <img src="https://mobimoney.com/images/book.jpg" /><img src="https://mobimoney.com/product-manager/productBook.png" />
 
+<br /><br />
 ## Getting Started
 
 Open your terminal and navigate to the folder where you would like to download the Mobimoney repo, then copy/paste the
@@ -24,7 +25,7 @@ folling text:
 > git clone https://github.com/mobiman1/mobimoney.git
 ```
 
-Then cd to the mobimony directory and install the dependencies:
+Then cd to the "mobimony" directory and install the dependencies:
 ```
 > cd mobimoney
 > npm install
