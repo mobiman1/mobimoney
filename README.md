@@ -6,7 +6,12 @@ currenty does not include payment gateway integration or login authorization.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Open your terminal and download this repo:
+> git clone https://github.com/mobiman1/mobimoney.git
+
+Install dependencies:
+> cd mobimoney
+> npm install
 
 ### Prerequisites
 
