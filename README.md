@@ -1,7 +1,8 @@
 # mobimoney
 
 Mobimoney is a cross-platform mobile payments library for React Native. Specifically, Mobimoney provides a Scanner 
-(QR code reader), Product Page, Shopping Cart, and Invoice modal to facilitate payments from mobile devices.
+(QR code reader), Product Page, Shopping Cart, and Invoice modal to facilitate payments from mobile devices. This library
+currenty does not include payment gateway integration or login authorization. 
 
 ## Getting Started
 
