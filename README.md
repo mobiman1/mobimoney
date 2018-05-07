@@ -6,22 +6,25 @@ currenty does not include payment gateway integration or login authorization.
 
 ## Getting Started
 
-Open your terminal and download the repo:
+Open your terminal and navigate to the folder where you would like to download the Mobimoney repo, then copy/paste the
+folling text:
 ```
 > git clone https://github.com/mobiman1/mobimoney.git
 ```
 
-Install the dependencies:
+The cd to the mobimony directory and install the dependencies:
 ```
-
->> cd mobimoney
->> npm install
-
+> cd mobimoney
+> npm install
 ```
 
 ### Demo
-You may demo Mobimoney on a mobile device by scanning this QR code (requires Expo Client): 
-<img src="https://mobimoney.com/images/shopping-cart.png">
+You may demo Mobimoney on a mobile device by scanning this QR code (requires <a href="https://expo.io/tools#client"
+Expo Client</a>): 
+<img src="https://mobimoney.com/images/shopping-cart.png" />
+
+After loading Mobimoney you may scan the items below to test its features:
+<img src="https://mobimoney.com/images/bear.jpg" /><img src="https://mobimoney.com/product-manager/productBear.png" />
 
 ### Documentation
 Coming soon...
