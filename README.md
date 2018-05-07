@@ -4,6 +4,7 @@ Mobimoney is a cross-platform mobile payments library for React Native. Specific
 (QR code reader), Product Page, Shopping Cart, and Invoice modal to facilitate payments from mobile devices. This library
 currenty does not include payment gateway integration or login authorization.
 
+<!-- <img src="https://mobimoney.com/images/screensMobimoney.png" /> -->
 
 ## Expo Demo App
 You may demo Mobimoney on a mobile device by scanning this QR code (requires Expo Client): 
@@ -17,7 +18,6 @@ After loading Mobimoney you may scan the items below to test its features:
 
 <img src="https://mobimoney.com/images/book.jpg" /><img src="https://mobimoney.com/product-manager/productBook.png" />
 
-<br />
 ## Getting Started
 
 Open your terminal and navigate to the folder where you would like to download the Mobimoney repo, then copy/paste the
