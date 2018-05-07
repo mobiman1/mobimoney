@@ -19,12 +19,18 @@ The cd to the mobimony directory and install the dependencies:
 ```
 
 ### Demo
-You may demo Mobimoney on a mobile device by scanning this QR code (requires <a href="https://expo.io/tools#client"
-Expo Client</a>): 
+You may demo Mobimoney on a mobile device by scanning this QR code (requires Expo Client): 
 <img src="https://mobimoney.com/images/shopping-cart.png" />
 
 After loading Mobimoney you may scan the items below to test its features:
+
 <img src="https://mobimoney.com/images/bear.jpg" /><img src="https://mobimoney.com/product-manager/productBear.png" />
+
+<img src="https://mobimoney.com/images/flipFlops.jpg" /><img src="https://mobimoney.com/product-manager/productFlipFlops.png" />
+
+```
+<img src="https://mobimoney.com/images/book.jpg" /><img src="https://mobimoney.com/product-manager/productBook.png" />
+```
 
 ### Documentation
 Coming soon...
