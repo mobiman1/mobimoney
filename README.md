@@ -7,11 +7,11 @@ currenty does not include payment gateway integration or login authorization.
 ## Getting Started
 
 Open your terminal and download the repo:
-> git clone https://github.com/mobiman1/mobimoney.git
+    git clone https://github.com/mobiman1/mobimoney.git
 
 Install the dependencies:
-> cd mobimoney
-> npm install
+    > cd mobimoney
+npm install
 
 ### Demo
 You may demo Mobimoney on a mobile device by scanning this QR code (requires Expo Client): 
