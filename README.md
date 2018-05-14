@@ -39,7 +39,7 @@ Coming soon...
 ### v1.0 Roadmap
 Current release: v0.1.5
 
-##v1.0 Todo:
+## v1.0 Todo:
 <ul>
   <li>Dynamically obtain shop data, including: Shop name, shop logo, and prefered currency.</li>
   <li>Add coupon code functionality</li>
