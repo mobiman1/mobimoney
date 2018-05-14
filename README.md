@@ -37,7 +37,7 @@ Then cd to the "mobimoney" directory and install the dependencies:
 Current release: v0.1.5
 
 ### v1.0 Todo:
-[]Dynamically obtain shop data, including: Shop name, shop logo, and prefered currency
+[Dynamically obtain shop data, including: Shop name, shop logo, and prefered currency]
 [ ]Add coupon code functionality
 <ul>
   <li></li>
