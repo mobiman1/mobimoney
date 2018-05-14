@@ -38,11 +38,11 @@ Current release: v0.1.5
 
 ### v1.0 Todo:
 <ul>
-  <li>Dynamically obtain shop data, including: Shop name, shop logo, and prefered currency</li>
-  <li>Add coupon code functionality</li>
-  <li>Save favorited products</li>
-  <li>integrage payments gatway</li>
-  <li>integrate login authorization</li>
+  <li>[]Dynamically obtain shop data, including: Shop name, shop logo, and prefered currency</li>
+  <li>[ ]Add coupon code functionality</li>
+  <li>[]Save favorited products</li>
+  <li>[]integrage payments gatway</li>
+  <li>[]integrate login authorization</li>
 </ul>
 
 ## Documentation
