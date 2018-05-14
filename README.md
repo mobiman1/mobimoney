@@ -33,13 +33,10 @@ Then cd to the "mobimoney" directory and install the dependencies:
 > npm install
 ```
 
-### Documentation
-Coming soon...
-
-### v1.0 Roadmap
+## v1.0 Roadmap
 Current release: v0.1.5
 
-v1.0 Todo:
+### v1.0 Todo:
 <ul>
   <li>Dynamically obtain shop data, including: Shop name, shop logo, and prefered currency.</li>
   <li>Add coupon code functionality</li>
@@ -48,7 +45,10 @@ v1.0 Todo:
   <li>integrate login authorization</li>
 </ul>
 
-### Technologies
+## Documentation
+Coming soon...
+
+## Technologies
 <ul>
   <li>
 Expo: for rapid development of the app (allows you to develop without touching Xcode/Android Studio; is pre-configured with hot-reloading; has its own app store for instant publishing; provides debug tools, etc.).
