@@ -37,6 +37,9 @@ Then cd to the "mobimoney" directory and install the dependencies:
 Coming soon...
 
 ### v1.0 Roadmap
+Current release: v0.1.5
+
+v1.0 Todo:
 
 
 ### Technologies
