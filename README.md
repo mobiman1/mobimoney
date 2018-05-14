@@ -38,7 +38,7 @@ Current release: v0.1.5
 
 ### v1.0 Todo:
 <ul>
-  <li>Dynamically obtain shop data, including: Shop name, shop logo, and prefered currency.</li>
+  <li>Dynamically obtain shop data, including: Shop name, shop logo, and prefered currency</li>
   <li>Add coupon code functionality</li>
   <li>Save favorited products</li>
   <li>integrage payments gatway</li>
@@ -51,14 +51,14 @@ Coming soon...
 ## Technologies
 <ul>
   <li>
-Expo: for rapid development of the app (allows you to develop without touching Xcode/Android Studio; is pre-configured with hot-reloading; has its own app store for instant publishing; provides debug tools, etc.).
+Expo: Rapid development tool for React Native apps (allows for developing without touching Xcode/Android Studio; is pre-configured with hot-reloading; has its own app store for instant publishing; provides debug tools, etc.).
   </li>
   <li>
 
-React Native: as a library for developing an cross-platform phone app using React's reactive architecture.
+React Native: A library for developing cross-platform mobile apps using React's reactive architecture.
 </li>
 <li>
-React Navigation: to provide cross-platform navigation. Chosen over React Native Navigation because: 1) Expo recommends it; and 2) React Native Navigation is flooded with hundreds of open issues because the core team have switched attention to producing a new major release.
+React Navigation: Provides cross-platform navigation. Chosen over React Native Navigation because: 1) Expo team recommends it; and 2) React Native Navigation is inundated with hundreds of open issues because the core team has switched attention to producing a new major release.
   </li>
   </ul>
 
