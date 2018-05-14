@@ -42,6 +42,7 @@ Current release: v0.1.5
 - [ ] Save favorited products
 - [ ] Integrage payments gatway
 - [ ] Integrate login authorization
+- [ ] Write documentation
 
 ## Documentation
 Coming soon...
